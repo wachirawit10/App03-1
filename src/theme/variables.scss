@@ -1,0 +1,55 @@
+// For information on how to create your own theme, please see:
+// http://ionicframework.com/docs/theming/
+:root {
+	--ion-color-cyber: #db147e;
+	--ion-color-cyber-rgb: 219,20,126;
+	--ion-color-cyber-contrast: #ffffff;
+	--ion-color-cyber-contrast-rgb: 255,255,255;
+	--ion-color-cyber-shade: #c1126f;
+	--ion-color-cyber-tint: #df2c8b;
+}
+
+.ion-color-cyber {
+	--ion-color-base: var(--ion-color-cyber);
+	--ion-color-base-rgb: var(--ion-color-cyber-rgb);
+	--ion-color-contrast: var(--ion-color-cyber-contrast);
+	--ion-color-contrast-rgb: var(--ion-color-cyber-contrast-rgb);
+	--ion-color-shade: var(--ion-color-cyber-shade);
+	--ion-color-tint: var(--ion-color-cyber-tint);
+}
+
+:root {
+	--ion-color-somenice: #9168bb;
+	--ion-color-somenice-rgb: 145,104,187;
+	--ion-color-somenice-contrast: #000000;
+	--ion-color-somenice-contrast-rgb: 0,0,0;
+	--ion-color-somenice-shade: #805ca5;
+	--ion-color-somenice-tint: #9c77c2;
+}
+
+.ion-color-somenice {
+	--ion-color-base: var(--ion-color-somenice);
+	--ion-color-base-rgb: var(--ion-color-somenice-rgb);
+	--ion-color-contrast: var(--ion-color-somenice-contrast);
+	--ion-color-contrast-rgb: var(--ion-color-somenice-contrast-rgb);
+	--ion-color-shade: var(--ion-color-somenice-shade);
+	--ion-color-tint: var(--ion-color-somenice-tint);
+}
+
+:root {
+	--ion-color-snoop: #3a4464;
+	--ion-color-snoop-rgb: 58,68,100;
+	--ion-color-snoop-contrast: #ffffff;
+	--ion-color-snoop-contrast-rgb: 255,255,255;
+	--ion-color-snoop-shade: #333c58;
+	--ion-color-snoop-tint: #4e5774;
+}
+
+.ion-color-snoop {
+	--ion-color-base: var(--ion-color-snoop);
+	--ion-color-base-rgb: var(--ion-color-snoop-rgb);
+	--ion-color-contrast: var(--ion-color-snoop-contrast);
+	--ion-color-contrast-rgb: var(--ion-color-snoop-contrast-rgb);
+	--ion-color-shade: var(--ion-color-snoop-shade);
+	--ion-color-tint: var(--ion-color-snoop-tint);
+}
